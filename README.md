@@ -11,6 +11,8 @@ Description :
 
 The Working :
 
+Video Link : https://drive.google.com/file/d/1ppS9xhwWMJ7Z_cT3ezqxFV8XhfdTTlEh/view?usp=sharing
+
 1. The Model we decided to work on for this project was SPROCKET. The only reason to choose this model was it has touch Sensors in the front which were really helpful to navigate the vehicle.
 2. Outcode Starts from Linking the MATLAB to the ROBOSim Software.
 3. Then our Robot Turns the CLUTCH Gear and Moves forward toward the first Wall. 
